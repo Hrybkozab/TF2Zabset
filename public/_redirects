@@ -1,0 +1,3 @@
+/api/guides/*  /.netlify/functions/guides/:splat  200
+/api/guides    /.netlify/functions/guides  200
+/*    /index.html   200
